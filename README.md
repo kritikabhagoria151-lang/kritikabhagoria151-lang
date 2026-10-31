@@ -4,7 +4,7 @@
 
 ### Portfolio: [kritikabhagoria-portfolio.vercel.app](https://kritikabhagoria-portfolio.vercel.app/)
 
-[kritikabhagoria151@gmail.com](mailto:kritikabhagoria151@gmail.com)
+[kritikabhagoria151@gmail.com](kritikabhagoria151@gmail.com)
 
 I am a Digital Marketing with AI student from Pundri, Haryana, building websites, browser games and video content with AI-assisted workflows. I use AI tools to turn simple ideas into practical, working digital experiences, and I am currently strengthening my skills in business, sales and communication.
 
